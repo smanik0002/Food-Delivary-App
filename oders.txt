@@ -1,0 +1,23 @@
+Customer: apurbo
+Address: stadium road,lane no10 ,sirajganj
+Phone: 01717036221
+Drink: Mojo - ?20 BDT
+Burger: Beef Burger - ?150 BDT
+Biryani/Khichuri: Khichuri (1:4) - ?550 BDT
+Snack: Chicken Nuggets - ?100 BDT
+Pizza: Chicken BBQ Pizza - ?450 BDT
+Total: ?1270.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: S M Naimur Rahman Anik
+Address: Sirajganj
+Phone: ****************
+Drink: Lemon Juice - ?50 BDT
+Burger: Chicken Burger - ?100 BDT
+Biryani/Khichuri: Khichuri (1:4) - ?550 BDT
+Pizza: Veggie Pizza - ?200 BDT
+Total: ?900.00 BDT
+Thank you for your order!
+--------------------------------------------------
+

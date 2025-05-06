@@ -1,0 +1,114 @@
+Customer: anik
+Address: sirajganj
+Phone: 01717036221
+Drink: Milk Shake - ?150 BDT
+Biryani/Khichuri: Chicken Biryani - ?120 BDT
+Total: ?270.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: shuvo
+Address: sirajganj
+Phone: 017111212
+Drink: Faluda - ?100 BDT
+Burger: Chicken Burger - ?100 BDT
+Total: ?200.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: kiti
+Address: sirajganj
+Phone: 01717036221
+Drink: Milk Shake - ?150 BDT
+Biryani/Khichuri: Khichuri (1:4) - ?550 BDT
+Total: ?700.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: kiti
+Address: sirajganj
+Phone: 01717036221
+Drink: Milk Shake - ?150 BDT
+Biryani/Khichuri: Khichuri (1:4) - ?550 BDT
+Total: ?700.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: kiti
+Address: 00000
+Phone: anmnma
+Drink: Mojo - ?20 BDT
+Burger: Beef Burger - ?150 BDT
+Biryani/Khichuri: Vegetable Khichuri - ?80 BDT
+Snack: Chicken Nuggets - ?100 BDT
+Pizza: Pepperoni Pizza - ?350 BDT
+Total: ?700.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: kiti
+Address: 00000
+Phone: anmnma
+Drink: Mojo - ?20 BDT
+Burger: Beef Burger - ?150 BDT
+Biryani/Khichuri: Vegetable Khichuri - ?80 BDT
+Snack: Chicken Nuggets - ?100 BDT
+Pizza: Pepperoni Pizza - ?350 BDT
+Total: ?700.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: kiti
+Address: 00000
+Phone: anmnma
+Drink: Mojo - ?20 BDT
+Burger: Beef Burger - ?150 BDT
+Biryani/Khichuri: Vegetable Khichuri - ?80 BDT
+Snack: Chicken Nuggets - ?100 BDT
+Pizza: Pepperoni Pizza - ?350 BDT
+Total: ?700.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: kiti
+Address: 00000
+Phone: anmnma
+Drink: Mojo - ?20 BDT
+Burger: Beef Burger - ?150 BDT
+Biryani/Khichuri: Vegetable Khichuri - ?80 BDT
+Snack: Chicken Nuggets - ?100 BDT
+Pizza: Pepperoni Pizza - ?350 BDT
+Total: ?700.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: sakil
+Address: sirajganj
+Phone: 000000000
+Drink: Cold Chocolate Coffee - ?100 BDT
+Burger: Chicken Burger - ?100 BDT
+Biryani/Khichuri: Chicken Biryani - ?120 BDT
+Total: ?320.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: MD Sakil
+Address: Sirajganj
+Phone: 01771043395
+Drink: Lassi - ?50 BDT
+Burger: Chicken Burger - ?100 BDT
+Biryani/Khichuri: Khichuri (1:4) - ?550 BDT
+Snack: French Fries - ?50 BDT
+Pizza: Chicken BBQ Pizza - ?450 BDT
+Total: ?1200.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
+Customer: 00
+Address: 000
+Phone: 000
+Snack: Chicken Nuggets - ?100 BDT
+Total: ?100.00 BDT
+Thank you for your order!
+--------------------------------------------------
+
